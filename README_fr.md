@@ -77,4 +77,3 @@ Pour supprimer les conteneurs Docker, exécutez `docker-compose down`.
 
 
 © breroot 2023 - MIT Licence
-```

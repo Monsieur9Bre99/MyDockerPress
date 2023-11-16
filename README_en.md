@@ -77,4 +77,3 @@ To remove the Docker containers, run `docker-compose down`.
 
 
 © breroot 2023 - MIT License
-```
