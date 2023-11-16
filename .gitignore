@@ -1,0 +1,8 @@
+# Environnement
+.env
+
+# Docker
+.docker/
+
+# Logs
+*.log
