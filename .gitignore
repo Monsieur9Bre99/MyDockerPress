@@ -3,6 +3,3 @@
 
 # Docker
 .docker/
-
-# GitLab
-.gitlab-ci.yml
