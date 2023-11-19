@@ -5,4 +5,4 @@
 .docker/
 
 # GitLab
-.gitlab-ci
+.gitlab-ci.yml
