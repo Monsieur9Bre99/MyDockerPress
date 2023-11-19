@@ -1,6 +1,6 @@
 # MyDockerPress
 
-MyDockerPress est un projet qui vous permet de déployer facilement et rapidement un site WordPress avec une base de données MySQL en utilisant Docker. Avec MyDockerPress, vous n'avez pas besoin de vous soucier de l'installation et de la configuration de WordPress et de MySQL sur votre machine. Vous pouvez simplement utiliser Docker Compose pour créer et exécuter les conteneurs nécessaires en quelques minutes.
+MyDockerPress (MySQL - Docker - WordPress) est un projet qui vous permet de déployer facilement et rapidement un site WordPress avec une base de données MySQL en utilisant Docker. Avec MyDockerPress, vous n'avez pas besoin de vous soucier de l'installation et de la configuration de WordPress et de MySQL sur votre machine. Vous pouvez simplement utiliser Docker Compose pour créer et exécuter les conteneurs nécessaires en quelques minutes.
 
 ## Fonctionnalités
 
@@ -60,7 +60,15 @@ MyDockerPress est un projet qui vous permet de déployer facilement et rapidemen
 
 Ouvrez votre navigateur et accédez à `http://localhost:8080` pour voir votre site WordPress.
 
-![Capture d'écran du site WordPress](./image.jpg)
+## Demo
+
+![Capture d'écran 0](../images/img-0.jpg)
+![Capture d'écran de l'installation du site WordPress](../images/img-1.jpg)
+![Capture d'écran de l'authentification du site WordPress](../images/img-2.jpg)
+![Capture d'écran du site WordPress](../images/img-3.jpg)
+![Capture d'écran du site WordPress](../images/img-4.jpg)
+![Capture d'écran de l'illustration de Elementor](../images/img-elementor.jpg)
+
 
 ## Arrêt et suppression des conteneurs
 
